@@ -1,0 +1,279 @@
+Singapore	31
+Sydney	30
+Chengdu	25
+Beijing	23
+Bangkok	22
+Zurich	22
+Shanghai	20
+Dubai	17
+London	17
+Vancouver	17
+Vienna	15
+Chongqing	12
+Lisbon	12
+Paris	12
+Wuhan	12
+Macau	11
+Xiamen	10
+Istanbul	9
+Osaka	9
+Sanya	9
+Tokyo	9
+Xi'an	9
+Bali	8
+Copenhagen	8
+Nanjing	8
+Rome	8
+Athens	7
+Barcelona	7
+Shenzhen	7
+Turin	7
+Milan	6
+Porto	6
+Qingdao	6
+Sorrento	6
+Atlanta	5
+Cairo	5
+Gandia	5
+Kyoto	5
+Melbourne	5
+Suzhou	5
+Thessaloniki	5
+Valencia	5
+Bangalore	4
+Berlin	4
+Bologna	4
+Dresden	4
+Edinburgh	4
+Hanoi	4
+Honolulu	4
+Marrakech	4
+Rabat	4
+Taicang	4
+Torino	4
+Aberystwyth	3
+Auckland	3
+Bari	3
+Biarritz	3
+Budapest	3
+Changsha	3
+Dalian	3
+Guilin	3
+Heraklion	3
+Islamabad	3
+Jaipur	3
+Jakarta	3
+Jeju	3
+Jiaxing	3
+Orlando	3
+Ottawa	3
+Portland	3
+Springer	3
+SuVa	3
+Taichung	3
+Tallinn	3
+Adelaide	2
+Alvor	2
+Austin	2
+Belagavi	2
+Cambridge	2
+Coimbatore	2
+Dallas	2
+Dehradun	2
+Dubrovnic	2
+Errachidia	2
+Fujisawa	2
+Giza	2
+Greenville	2
+Hammamet	2
+Huanggang	2
+Hyderabad	2
+Kawasaki	2
+Lanzhou	2
+Leicester	2
+Leipzig	2
+Leuven	2
+Ljubljana	2
+Lugano-Viganello	2
+Mahe	2
+Manchester	2
+Naples	2
+Napoli	2
+Opatija	2
+Oslo	2
+Penang	2
+Pensacola	2
+Phuket	2
+Pune	2
+Riga	2
+Seoul	2
+Sopot	2
+Sorento	2
+Taormina	2
+Tartu	2
+Tuscany	2
+Urumqi	2
+Venice	2
+Yerevan	2
+Aberdeen	1
+Agder	1
+Aizawl	1
+Aizu-Wakamatsu	1
+Alexandria	1
+Algiers	1
+Alicante	1
+Amaravati	1
+Ankara	1
+ARIEL	1
+Arlington	1
+Astana	1
+Avila	1
+Azores	1
+Bengaluru	1
+Bern	1
+Bielefeld	1
+Birmingham	1
+Bordeaux	1
+Boston	1
+Bournemouth	1
+Bratislava	1
+Bristol	1
+Brno	1
+Burlingame	1
+Busan	1
+CANTERBURY	1
+Catania	1
+Chicago	1
+City	1
+Coimbra	1
+Cusco	1
+Cyberspace	1
+Cyprus	1
+Daegu	1
+Darmstadt	1
+Dijon	1
+Erlangen	1
+Espoo	1
+Exeter	1
+Fiji	1
+Fukuoka	1
+Fuzhou	1
+Galway	1
+Gothenburg	1
+Guanajuato	1
+Guangzhou	1
+Guelma	1
+Hainan	1
+Hamamatsu	1
+Hamburg	1
+Hamilton	1
+Harbin	1
+Hefei	1
+Heidelberg	1
+Huzhou	1
+Jinan	1
+Knoxville	1
+Kolkata	1
+Koper/Capodistria	1
+Krakow	1
+Kumamoto	1
+Larissa	1
+Lecce	1
+Lingshui	1
+Lodz	1
+Lviv	1
+Maastricht	1
+Madrid	1
+Madurai	1
+Mahasarakham	1
+Maorida	1
+Marietta	1
+Marmaris	1
+Matsue	1
+Merida	1
+Mianyang	1
+Miramar-Beach	1
+Mittweida	1
+Montreal	1
+Mostar	1
+Munich	1
+Nadi	1
+Neuchatel	1
+Nice	1
+Nicosia	1
+Ningbo	1
+Okinawa	1
+Ontario	1
+Paestum	1
+Perlis	1
+Phoenix	1
+Portsmouth	1
+Pula	1
+Queensland	1
+Reykjavik	1
+Rhodes	1
+Rovaniemi	1
+Seattle	1
+Seville	1
+Sofia	1
+Sogndal	1
+Stockholm	1
+Surat	1
+Taipei	1
+Tampa	1
+Tangier	1
+Tenerife	1
+Tianjin	1
+Tirrenia	1
+Tirunelveli	1
+Toronto	1
+Tottori	1
+Tunis	1
+Udine	1
+Uppsala	1
+Varanasi	1
+Verbania	1
+Warsaw	1
+Wuxi	1
+Xinxiang	1
+Yichang	1
+Zadar	1
+Zhuhai	1
+Abu Dhabi	21
+Batangas City	2
+Belo Horizonte	1
+Cape Town	2
+Certosa di Pontignano	1
+Chiang Mai	1
+Da Nang	1
+EXCO Daegu	1
+Fort Lauderdale	1
+Gran Canaria	1
+Guanajuato city	3
+Ho Chi Minh	5
+Hong Kong	5
+Kota Kinabalu	1
+Kuala Lumpur	4
+Laguna Hills	18
+La Plata	4
+Las Vegas	4
+Long Beach	5
+Los Angeles	1
+Mexico City	6
+Miramar Beach	3
+Newcastle upon Tyne	1
+New Delhi	3
+NEW JERSY	1
+New Orleans	6
+New York	3
+Niagara Falls	1
+Oak Ridge	1
+Port Said	2
+Rio Grande	1
+Safranbolu Turkey	1
+San Antonio	3
+San Francisco	1
+Santa Fe	1
+Santiago de Compostela	2
+Sharm El-Sheikh	2
+Washington DC	4
